@@ -1,6 +1,8 @@
 package Sah::Schemas::Math;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
@@ -8,10 +10,8 @@ package Sah::Schemas::Math;
 
 =head1 DESCRIPTION
 
-Currently empty.
 
-
-=head1 SEE ALSO
+=head1 prepend:SEE ALSO
 
 L<Sah::Schemas::Float>
 
